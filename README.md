@@ -1,16 +1,45 @@
-## Hi there 👋
+## Hi, I’m Sofía 👋
 
-<!--
-**SofiaArranzRegidor/SofiaArranzRegidor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a PhD physicist working in theoretical quantum optics and photonic quantum architectures, with a strong focus on computational modeling and scientific software development.
 
-Here are some ideas to get you started:
+My work sits at the intersection of quantum light–matter interactions, waveguide QED, and scalable numerical methods based on tensor networks (Matrix Product States).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔬 What I work on
+
+- Modeling non-Markovian open quantum systems in waveguide QED  
+- Tensor-network (MPS) simulations of light–matter interactions  
+- Few-photon nonlinearities, time delays, and multi-emitter systems  
+- Bridging theory, numerical methods, and practical simulation tools  
+
+I’m particularly interested in moving beyond standard master-equation approaches toward scalable, modular simulation frameworks.
+
+---
+
+### 🧠 Software & research projects
+
+- **Quantum Optics Architecture Simulator (MPS-based)**  
+  Lead developer of a Python framework for simulating one-dimensional quantum photonic architectures using tensor networks.  
+  Focused on finite delays, non-Markovian dynamics, and multi-qubit systems.  
+  *(Public release planned in early 2026)*
+
+- **Quantum photonic simulation tools (Ansys INTERCONNECT)**  
+  Developed Python-based tools during my industry internship at Ansys Canada, extending photonic circuit solvers to support quantum scattering and nonlinear light–matter interactions.
+
+---
+
+### 🛠 Tools & methods
+
+- **Programming**: Python, Git/GitHub, Numba, MPI, Fortran  
+- **Numerical methods**: Tensor networks (MPS), time-evolution algorithms, ODE/PDE solvers  
+- **Quantum & photonics tools**: QuTiP, Ansys Lumerical INTERCONNECT  
+- **Platforms**: Linux, macOS, Windows  
+
+---
+
+### 📫 Get in touch
+
+- LinkedIn: https://linkedin.com/in/sofiaarranzr  
+- Email: 18sar4@queensu.ca  
+
